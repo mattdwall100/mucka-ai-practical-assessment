@@ -1,0 +1,301 @@
+message_id,urgency,score,reason,source
+m00587,routine,20,The message indicates a non-urgent issue with a radiator valve.,hot
+m00298,same_day,60,The boiler fault code indicates a significant issue that needs to be addressed today.,hot
+m00633,routine,10,"The message is about a callout charge, which is not urgent.",hot
+m01190,routine,0,Customer is expressing gratitude for a job well done.,hot
+m01181,routine,10,"Request for a Saturday appointment, no urgency indicated.",hot
+m00445,routine,20,The message is a request for appointment confirmation and includes a non-urgent issue with the buzzer.,hot
+m01358,routine,10,"The message is a query about an invoice, which is not urgent.",hot
+m01175,routine,10,Requesting a quote for underfloor heating is not urgent.,hot
+m01280,routine,10,Request for a gas safety certificate is non-urgent.,hot
+m01404,routine,10,"Customer is inquiring about service plans, which is not urgent.",hot
+m00728,routine,10,Request for a gas safety certificate is non-urgent.,hot
+m00748,routine,20,The issue is not urgent and can be addressed whenever convenient.,hot
+m01506,routine,10,"Customer is requesting a quote for underfloor heating, which is not urgent.",hot
+m01048,routine,10,The message is about payment confirmation and does not indicate any urgent issue.,hot
+m00721,routine,10,"The message is a request for appointment confirmation, which is not urgent.",hot
+m01483,routine,10,The message is simply an update about the current job and does not indicate any urgent issue.,hot
+m00848,routine,10,The message is about a callout charge and does not indicate any urgent issue.,hot
+m01231,routine,20,The message indicates a non-urgent issue with a radiator valve.,hot
+m01507,routine,10,"Customer is requesting a quote for underfloor heating, which is not urgent.",hot
+m00793,routine,20,"The message is a request for information about installation, which is not urgent.",hot
+m01030,routine,10,The message is a routine inquiry about an invoice.,hot
+m00283,same_day,65,Hissing noise and hot smell from the boiler indicate a potential fault that needs urgent attention.,hot
+m00191,routine,20,The message indicates no hot water but does not suggest urgency.,hot
+m00439,routine,10,"The message is a follow-up about a scheduled appointment, which is not urgent.",hot
+m01191,routine,10,The message is about confirming payment with no urgency.,hot
+m01471,routine,10,This message is an update about the technician's schedule and does not indicate any urgent issue.,hot
+m01327,routine,10,Request for a gas safety certificate is non-urgent.,hot
+m01212,routine,10,The message is a follow-up about a scheduled appointment.,hot
+m00338,routine,10,Requesting a quote for non-urgent plumbing work.,hot
+m01242,routine,10,Request for a quote to move a boiler is non-urgent.,hot
+m00065,same_day,60,Total loss of hot water requires action today.,hot
+m00027,same_day,75,Total loss of heating affecting a vulnerable occupant.,hot
+m00647,routine,10,"The message confirms payment of an invoice, which is routine.",hot
+m01435,routine,10,Request for a landlord gas safety check is non-urgent.,hot
+m00964,routine,10,"The message is a request for service information, which is not urgent.",hot
+m01349,routine,10,"The message is about scheduling a bathroom refit, which is not urgent.",hot
+m01514,routine,10,Request for a quote for non-urgent plumbing work.,hot
+m01065,routine,10,"The message is a request for pricing information, which is not urgent.",hot
+m01192,routine,10,"The message is a request for appointment confirmation, which is not urgent.",hot
+m00963,routine,10,"The message is about confirming payment and providing access details, which is not urgent.",hot
+m00900,routine,10,"The message is a general inquiry about service plans, which is not urgent.",hot
+m00714,routine,10,Customer is providing positive feedback about the new thermostat.,hot
+m01451,routine,10,Request for supplies is not urgent.,hot
+m00033,emergency,90,"There is a burning smell, indicating a potential fire hazard.",hot
+m01413,routine,10,The message is a non-urgent inquiry about power flushing.,hot
+m01096,routine,10,"Customer is requesting a quote for underfloor heating, which is not urgent.",hot
+m01008,routine,10,The message is about payment options and is not urgent.,hot
+m01188,routine,10,Request to cancel an appointment with no urgency.,hot
+m00411,routine,10,Customer is inquiring about a future bathroom refit.,hot
+m01447,routine,10,The message is about leaving keys and does not indicate any urgent issue.,hot
+m01115,routine,10,"The message is a follow-up about a previous email regarding extension pipework, which is not urgent.",hot
+m00865,routine,20,"The message is asking about a callout charge and installation, which are non-urgent inquiries.",hot
+m00554,routine,0,The message is a general inquiry about payment methods.,hot
+m00980,routine,20,"The message is a request for installation of a smart thermostat, which is not urgent.",hot
+m00391,routine,10,Customer is providing positive feedback about the new thermostat.,hot
+m01517,routine,10,The message is a follow-up on a quote with no urgency indicated.,hot
+m01291,routine,10,"Customer is requesting a quote for underfloor heating, which is not urgent.",hot
+m00915,routine,10,Customer is inquiring about power flushing with no urgency indicated.,hot
+m00389,routine,10,The message is a non-urgent inquiry about power flushing.,hot
+m00807,routine,10,The message is a request for a quote with no urgency indicated.,hot
+m00393,routine,10,"The message is about proceeding with a quote, which is not urgent.",hot
+m00139,same_day,60,"The kitchen sink is completely blocked, requiring urgent attention today.",hot
+m01224,routine,10,The message is a non-urgent inquiry about power flushing.,hot
+m00155,same_day,65,Hissing noise and hot smell from the boiler indicate a potential fault that needs attention today.,hot
+m00972,routine,10,"The message is a request for information about an old boiler, which is not urgent.",hot
+m00451,routine,10,"The message is a general inquiry about service plans, which is not urgent.",hot
+m01331,routine,10,"The message is a request for clarification about a certificate, which is not urgent.",hot
+m00067,same_day,75,"The toilet won't flush and it's the only one in the house, requiring urgent attention.",hot
+m00484,routine,10,The message is a general inquiry about servicing a specific boiler model.,hot
+m00167,same_day,60,"The boiler is not firing up due to a zero pressure gauge, requiring prompt attention.",hot
+m00254,same_day,60,"The boiler is not firing up, which requires action today.",hot
+m01421,routine,10,"The message is a request for assessment of an old boiler, which is not urgent.",hot
+m00859,routine,0,The message is a general inquiry about payment options.,hot
+m00962,routine,10,The message is about a future boiler quote and does not indicate any urgent issues.,hot
+m01452,routine,10,Request for supplies is non-urgent.,hot
+m01033,routine,10,The message is a request for a boiler check with no urgency indicated.,hot
+m00752,routine,20,The message is about assessing an old boiler and does not indicate an urgent issue.,hot
+m00608,routine,10,"Customer is inquiring about a future boiler quote, which is not urgent.",hot
+m01117,routine,20,The message indicates a non-urgent issue with the radiator valve.,hot
+m00634,routine,10,The customer is requesting a cancellation with no urgency.,hot
+m01511,routine,10,Customer is requesting a boiler check with no urgency indicated.,hot
+m00181,same_day,60,The toilet won't flush and it's the only one in the house.,hot
+m01101,routine,20,The message describes a non-urgent issue with a radiator valve.,hot
+m00442,routine,10,"The message is a request for pricing information, which is not urgent.",hot
+m00713,routine,20,Customer is inquiring about servicing a specific boiler model.,hot
+m00227,same_day,60,"The boiler is not firing up due to a zero pressure gauge, requiring urgent attention.",hot
+m01003,routine,10,"Customer is inquiring about a future boiler quote, which is not urgent.",hot
+m00806,routine,10,Customer is providing positive feedback about the thermostat.,hot
+m00201,same_day,60,Total loss of hot water requires action today.,hot
+m00971,routine,10,Request for a duplicate certificate is non-urgent.,hot
+m00364,routine,10,"The message is a request for pricing information, which is not urgent.",hot
+m01388,routine,10,The message is about payment options and does not indicate any urgent issue.,hot
+m01039,routine,10,Customer is expressing gratitude for previous service.,hot
+m01520,routine,10,Request for a landlord gas safety check is non-urgent.,hot
+m00790,routine,10,"Customer is inquiring about callout charges, which is not urgent.",hot
+m01060,routine,10,The message is a follow-up about previous correspondence regarding extension pipework.,hot
+m00918,routine,20,"The message is a request for information about installing smart thermostats, which is not urgent.",hot
+m01492,routine,10,This is a promotional message from a supplier and does not require immediate attention.,hot
+m01347,routine,10,The message is a general inquiry about service coverage.,hot
+m00637,routine,10,Request for a copy of a receipt for insurance is non-urgent.,hot
+m00203,same_day,65,Total loss of heating due to a blank thermostat.,hot
+m01322,routine,10,Request for a duplicate certificate with no urgency indicated.,hot
+m00217,same_day,60,The cold tap issue needs action today as it is running quite fast.,hot
+m00059,same_day,60,"The pressure gauge on the boiler is on zero and it won't fire up, requiring action today.",hot
+m00029,same_day,65,"The boiler is leaking water and making a loud noise, requiring immediate attention today.",hot
+m00687,routine,10,"The message is a request for pricing information, which is not urgent.",hot
+m00025,emergency,85,"Water is actively pouring through the ceiling, indicating a serious leak.",hot
+m00077,same_day,60,Total loss of hot water requires action today.,hot
+m00368,routine,10,"The message is a general inquiry about service plans, which is not urgent.",hot
+m01474,routine,10,The message is about scheduling and does not indicate any urgent plumbing issue.,hot
+m00863,routine,10,The message is a general inquiry about the duration of a service.,hot
+m00168,same_day,60,"The toilet won't flush and it's the only one in the house, requiring urgent attention.",hot
+m00034,same_day,75,Total loss of heating affecting a vulnerable occupant.,hot
+m00795,routine,0,Customer is expressing gratitude for a job well done.,hot
+m01148,routine,20,"The message is a follow-up on a quote, which is not urgent.",hot
+m01131,routine,10,"The message is asking about service plans and availability, which is not urgent.",hot
+m00995,routine,10,The message is a follow-up about previously sent information regarding extension pipework.,hot
+m00598,routine,10,Request for a duplicate certificate is non-urgent.,hot
+m01066,routine,10,The message is a follow-up about a scheduled appointment with no urgent issues mentioned.,hot
+m00095,same_day,60,The boiler cutting out repeatedly requires attention today.,hot
+m01548,same_day,75,"The outside tap is running and has been turned off at the mains, requiring prompt attention.",hot
+m01403,same_day,40,"The message is a follow-up about a scheduled appointment and mentions a baby, but does not indicate an urgent issue. [safety rule: vulnerable_occupant]",hot
+m00745,routine,0,Customer is expressing gratitude for service received.,hot
+m00330,routine,10,"The message confirms payment of an invoice, which is not urgent.",hot
+m00488,routine,10,"The message is a request about payment options, which is not urgent.",hot
+m01251,routine,10,Customer is updating their address and asking about scheduling.,hot
+m00117,same_day,60,"Heating is on but radiators are cold, indicating a potential issue that needs attention today.",hot
+m00052,same_day,60,Total loss of hot water requires action today.,hot
+m00573,routine,20,Request for a landlord gas safety check is non-urgent.,hot
+m00482,routine,10,The message is a request for appointment confirmation and does not indicate urgency.,hot
+m00614,routine,20,"The message is a request for a boiler check, which is not urgent.",hot
+m01480,routine,10,This is a routine update from a worker about their schedule.,hot
+m01408,routine,10,The message is a general inquiry about servicing a specific boiler model.,hot
+m01207,routine,20,The message is a non-urgent inquiry about VAT registration.,hot
+m00316,routine,10,Customer wants a boiler check for a newly purchased property.,hot
+m01162,routine,10,"The message is a request for quotes, which is non-urgent.",hot
+m00418,routine,10,Request for a quote is non-urgent.,hot
+m00226,same_day,65,Hissing noise and hot smell from the boiler indicate a potential fault that needs attention today.,hot
+m01176,routine,0,Customer is expressing gratitude for a previous service.,hot
+m00446,routine,10,"The message is a follow-up about a previous email regarding extension pipework, which is not urgent.",hot
+m00006,emergency,90,Toilet overflow with sewage poses immediate danger to property.,hot
+m01537,routine,10,"Request for a duplicate certificate, not urgent.",hot
+m01526,routine,10,Customer is inquiring about power flushing with no urgency.,hot
+m00524,routine,10,"The message is a request to check a certificate date, which is not urgent.",hot
+m00481,routine,20,The message is a non-urgent inquiry about VAT registration.,hot
+m01527,routine,10,Customer is inquiring about power flushing with no urgency.,hot
+m01156,routine,10,The message is a cancellation request with no urgency.,hot
+m00826,routine,10,"Request to reschedule an appointment, not urgent.",hot
+m00114,same_day,60,Total loss of hot water requires action today.,hot
+m00409,routine,20,"The message is a request to check a certificate date, which is not urgent.",hot
+m01445,routine,20,"The message is about a delayed part, which is not urgent.",hot
+m01088,routine,10,Request for a gas safety certificate is non-urgent.,hot
+m00505,routine,10,Customer is requesting to update their address in records.,hot
+m01324,routine,10,The customer is requesting a quote for a future boiler installation.,hot
+m00686,routine,20,The message is a request for appointment confirmation and does not indicate urgency.,hot
+m00146,same_day,60,The loo running constantly indicates a potential leak that needs attention today.,hot
+m01286,routine,10,Request for a copy of a receipt for insurance is non-urgent.,hot
+m00558,routine,10,The message is a cancellation request with no urgency.,hot
+m01394,routine,10,Request for a Saturday appointment is non-urgent.,hot
+m00682,routine,10,The message is a follow-up about a scheduled appointment with no urgent issues mentioned.,hot
+m01178,routine,10,Customer is inquiring about a future boiler quote.,hot
+m01320,routine,10,"Request for a quote to move a boiler, which is non-urgent.",hot
+m01140,routine,10,"Request for a quote to move a boiler, which is not urgent.",hot
+m00419,routine,10,The message is a request for a quote with no urgency indicated.,hot
+m00496,routine,10,"The message is a general inquiry about service plans, which is not urgent.",hot
+m00252,same_day,60,The loo running constantly indicates a potential leak that needs attention today.,hot
+m00544,same_day,40,"The message is asking for advice on an old boiler, which is not urgent. [safety rule: vulnerable_occupant]",hot
+m00176,routine,30,The message indicates no hot water but does not suggest an urgent need for repair.,hot
+m01505,routine,10,Request for a gas safety certificate is non-urgent.,hot
+m00702,routine,10,"The message is a request to update address records, which is not urgent.",hot
+m00535,routine,10,"Request to reschedule an appointment, not urgent.",hot
+m00266,same_day,60,Total loss of hot water needs action today.,hot
+m00955,routine,10,Request for a gas safety certificate is non-urgent.,hot
+m01081,routine,10,"The message is a request for information about installing smart thermostats, which is not urgent.",hot
+m00532,routine,20,The message is a request for information about servicing a specific boiler model.,hot
+m00362,routine,10,Customer is inquiring about power flushing with no urgency.,hot
+m00654,routine,20,"Request for a quote to be resent, no urgent issues mentioned.",hot
+m00028,emergency,90,"Water is pouring through the ceiling, indicating a serious leak that needs immediate attention.",hot
+m00620,routine,20,"Customer is inquiring about service plans, which is not urgent.",hot
+m00650,routine,10,"The message is a general inquiry about callout charges, not urgent.",hot
+m00432,routine,10,The message is about service logistics and does not indicate any urgent issue.,hot
+m01486,routine,0,This message is a spam message and does not require any action.,hot
+m00310,same_day,60,Total loss of hot water requires action today.,hot
+m00081,same_day,60,"Blocked waste pipe is causing a backup, requiring urgent attention.",hot
+m01512,routine,10,"The message is a request for a quote, which is not urgent.",hot
+m00780,routine,10,The message is a general inquiry about the duration of a service.,hot
+m01389,routine,10,"The message is a request to check a certificate date, which is not urgent.",hot
+m00101,same_day,65,Total loss of heating requires action today.,hot
+m00248,same_day,60,"The boiler is leaking a small amount of water, which requires action today.",hot
+m00108,same_day,60,The radiator is leaking slowly and requires attention today.,hot
+m00638,routine,10,The message is a follow-up about previously sent information regarding extension pipework.,hot
+m00135,same_day,75,"The shower is completely cold, requiring urgent attention today.",hot
+m00471,same_day,40,"The message is about servicing or replacing an old boiler, which is not urgent. [safety rule: vulnerable_occupant]",hot
+m00735,routine,10,"The message is a general inquiry about callout charges, which is not urgent.",hot
+m01383,routine,10,Request for a quote for non-urgent plumbing work.,hot
+m00476,routine,10,"The message is a general inquiry about callout charges, with no urgent issues mentioned.",hot
+m01071,routine,10,"The message is a request to update address records, which is not urgent.",hot
+m00923,routine,10,Customer is inquiring about a quote with no urgency expressed.,hot
+m00005,emergency,90,Strong smell of gas indicates immediate danger.,hot
+m01503,routine,20,The message is a follow-up on a previously scheduled appointment and does not indicate any urgent issues.,hot
+m01468,routine,10,Request for a specific part from van stock is not urgent.,hot
+m01288,routine,10,"The message is a request to check a certificate date, which is not urgent.",hot
+m00929,routine,10,"Request for a quote to move the boiler, which is not urgent.",hot
+m01075,routine,30,The message inquires about power flushing with no immediate urgency.,hot
+m00061,same_day,60,Total loss of heating requires action today.,hot
+m01489,routine,20,"The message is about eligibility for a grant and a boiler check, which are non-urgent.",hot
+m00171,same_day,60,"The pressure gauge on the boiler is on zero and it won't fire up, indicating a fault that needs attention today.",hot
+m00179,same_day,60,"The kitchen radiator is leaking slowly, requiring action today.",hot
+m01544,same_day,60,The cold tap issue is ongoing and needs attention today.,hot
+m00765,routine,10,Customer is confirming acceptance of a quote and asking for next steps.,hot
+m00550,routine,20,"The message is a general inquiry about installation services, not urgent.",hot
+m00239,same_day,60,"The kitchen sink is completely blocked, requiring immediate attention today.",hot
+m00118,same_day,60,The boiler cutting out repeatedly indicates a fault that needs addressing today.,hot
+m00233,same_day,60,The cold tap issue needs action today as it is running quite fast.,hot
+m00583,routine,10,The message is a follow-up about a scheduled appointment with no urgent issues mentioned.,hot
+m00212,same_day,65,The boiler is showing a fault code and requires attention today.,hot
+m00341,routine,20,"The message is a request for assessment of an old boiler, which is not urgent.",hot
+m01400,routine,20,The message describes a non-urgent issue with a radiator valve.,hot
+m01272,routine,10,"The message is a request for a bathroom refit, which is not urgent.",hot
+m00332,routine,10,"The message is a request for appointment confirmation, which is not urgent.",hot
+m00042,emergency,90,"Water is coming through the ceiling, indicating a serious leak.",hot
+m00907,routine,10,Customer wants a boiler check for a new property.,hot
+m01532,routine,10,Customer is expressing gratitude for a job well done.,hot
+m00183,same_day,60,The toilet won't flush and it's the only one in the house.,hot
+m01533,routine,0,Customer is expressing gratitude for a job well done.,hot
+m00518,routine,10,"The message is a general inquiry about callout charges, which is not urgent.",hot
+m00160,same_day,60,Total loss of hot water requires action today.,hot
+m00216,same_day,60,"Heating is on but radiators are cold, indicating a potential issue that needs attention today.",hot
+m00381,routine,10,The message is a routine inquiry about an invoice.,hot
+m01089,routine,10,Request for a quote is non-urgent.,hot
+m00041,emergency,90,Active flooding with water coming from under the boiler poses immediate danger.,hot
+m00968,routine,10,"Customer is requesting a resend of a quote, which is not urgent.",hot
+m00085,same_day,60,The boiler is showing a fault code and requires attention today.,hot
+m01531,routine,10,"Customer is requesting a resend of a quote, which is not urgent.",hot
+m00843,routine,10,"Request for a Saturday appointment, not urgent.",hot
+m01407,routine,10,"Request for a quote to move the boiler, no urgency indicated.",hot
+m01215,routine,0,Request for a copy of a receipt is non-urgent.,hot
+m01167,routine,10,The message is a general inquiry about the duration of a service.,hot
+m00172,same_day,60,"The toilet is the only one in the house, requiring urgent attention.",hot
+m00693,routine,10,Request for a gas safety certificate is non-urgent.,hot
+m00946,routine,10,"The message confirms payment of an invoice, which is not urgent.",hot
+m01044,routine,10,"The message is a request for a quote regarding an old boiler, which is not urgent.",hot
+m00747,routine,10,Request for a quote for non-urgent plumbing work.,hot
+m00276,same_day,60,"Heating is on but radiators are cold, indicating a potential issue that needs attention today.",hot
+m01269,routine,10,Request for a non-urgent boiler service appointment.,hot
+m01516,routine,10,Customer is following up on a previous quote request for a bathroom.,hot
+m00723,routine,10,The message is a general inquiry about a service with no urgency.,hot
+m01473,routine,10,"The message is about leaving keys, which is not urgent.",hot
+m00363,routine,10,"Request to reschedule an appointment, no urgency indicated.",hot
+m00208,same_day,60,"The kitchen sink is completely blocked, requiring action today.",hot
+m00343,same_day,40,The message is a request for pricing information and does not indicate an urgent issue. [safety rule: vulnerable_occupant],hot
+m00798,routine,10,The customer indicates no rush for the repair.,hot
+m00232,same_day,60,"The boiler won't fire up due to a zero pressure gauge, requiring action today.",hot
+m00936,routine,20,"The message is requesting a quote for underfloor heating, which is not urgent.",hot
+m00812,routine,10,Request for a quote to be resent.,hot
+m01442,routine,20,"The message is about a delayed part delivery, which is not urgent.",hot
+m01015,routine,10,The message is a cancellation request with no urgent issues.,hot
+m00010,emergency,100,Carbon monoxide alarm indicates a serious danger to health.,hot
+m01199,routine,20,The message is a request for appointment confirmation and does not indicate any urgent issues.,hot
+m01098,routine,10,"Customer is inquiring about service plans, which is not urgent.",hot
+m01093,routine,30,"Request for a quote to move a boiler, which is not urgent.",hot
+m01518,same_day,60,Total loss of hot water requires action today.,hot
+m01255,routine,10,"Request for a Saturday appointment, not urgent.",hot
+m00823,routine,20,The message indicates a non-urgent issue with a radiator valve.,hot
+m00110,same_day,60,Total loss of hot water requires action today.,hot
+m01126,routine,10,Request for a receipt with no urgency indicated.,hot
+m00015,emergency,90,Strong smell of gas indicates immediate danger.,hot
+m01125,routine,20,The request is for a non-urgent assessment of an old boiler.,hot
+m00594,routine,10,Request to reschedule an appointment.,hot
+m00607,routine,10,"Request for a quote, no urgency indicated.",hot
+m00074,same_day,60,There's an active leak that needs attention today.,hot
+m00935,routine,10,The message is about payment methods and does not indicate any urgent issue.,hot
+m00657,routine,10,Customer is requesting to update their address in records.,hot
+m00230,same_day,60,The boiler fault code indicates a problem that needs attention today.,hot
+m00899,routine,20,The message describes a non-urgent issue with a radiator valve.,hot
+m00319,same_day,55,"The outside tap has been leaking for weeks, requiring immediate attention.",hot
+m00688,routine,10,"The message is a general inquiry about service plans, which is not urgent.",hot
+m00818,routine,10,Customer is inquiring about power flushing with no urgency expressed.,hot
+m00828,routine,10,"The message is a general inquiry about service coverage, not urgent.",hot
+m00321,routine,10,"Customer is inquiring about installation of smart thermostats, which is not urgent.",hot
+m00012,emergency,90,Carbon monoxide alarm indicates a serious danger to health and safety.,hot
+m01436,routine,10,The message is a non-urgent inquiry about power flushing.,hot
+m00703,routine,10,"The message is a request for pricing information, which is not urgent.",hot
+m01108,routine,10,"Request for a Saturday appointment, not urgent.",hot
+m01262,routine,10,Request for checking a certificate date is non-urgent.,hot
+m01534,same_day,60,The toilet running constantly indicates a potential leak that needs attention today.,hot
+m00775,routine,10,The message is a follow-up about a scheduled appointment and a future quote request.,hot
+m00088,same_day,65,The boiler is showing a fault code and requires attention today.,hot
+m01510,routine,10,"The message is a request for quotes, which is non-urgent.",hot
+m01353,routine,0,The message is a follow-up about a previous email regarding extension pipework.,hot
+m01409,routine,10,Request to reschedule an appointment.,hot
+m00696,routine,0,Customer is expressing gratitude for a job well done.,hot
+m00847,routine,10,The message is a cancellation request with no urgency.,hot
+m00953,routine,10,The message is a general inquiry about the duration of a service.,hot
+m00522,routine,10,Customer is requesting to update their address in records.,hot
+m00367,routine,10,"Customer is inquiring about a future boiler quote, which is not urgent.",hot
+m00984,routine,10,"Request for a quote to move a boiler, which is not urgent.",hot
+m01078,routine,10,"Request for a quote for underfloor heating, no urgency indicated.",hot
+m01431,routine,10,"Customer is requesting a quote for underfloor heating, which is not urgent.",hot
+m01395,routine,10,"Request to reschedule an appointment, not urgent.",hot

@@ -1,0 +1,7 @@
+.env
+*.db
+__pycache__/
+app.db
+eval.db
+data/config/
+data/processed/
